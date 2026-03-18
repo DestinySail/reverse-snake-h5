@@ -1,0 +1,17 @@
+{
+  "name": "reverse-snake-h5",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.7",
+    "vitest": "^2.1.9"
+  }
+}
